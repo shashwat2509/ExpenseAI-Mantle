@@ -2,7 +2,7 @@
 
 A Next.js application that combines AI-powered expense categorization with blockchain-based micro-savings on Mantle.
 
-🌐 **Live Demo**: [expense-ai-u2-u.vercel.app](https://expense-ai-u2-u.vercel.app)
+🌐 **Live Demo**: [https://expenseai-pied.vercel.app/](https://expenseai-pied.vercel.app/)
 
 ## ✨ Features
 
@@ -72,6 +72,12 @@ The application is deployed on **Mantle Sepolia Testnet**:
 - **Currency**: MNT
 - **RPC URL**: https://rpc.sepolia.mantle.xyz
 - **Contract Address**: 0x119CFa5bF364B5D4F9d66c8E65Fc46BD5B42c8ba
+
+## Images
+
+<img width="2812" height="4724" alt="Screenshot 2026-01-08 at 01-03-57 ExpenseAI — AI-Powered Expense Management   Smart Micro-Savings" src="https://github.com/user-attachments/assets/889c7fbc-aa87-4c69-a9c0-b797b65b8b97" />
+
+<img width="1242" height="835" alt="Screenshot 2026-01-08 at 1 04 26 AM" src="https://github.com/user-attachments/assets/a532f094-b70f-41b3-8772-15b074e9cdce" />
 
 ## 📝 License
 
